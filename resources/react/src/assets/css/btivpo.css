@@ -1,0 +1,13 @@
+.table-left{
+    width: 641px !important;
+}
+
+.table-right{
+    margin-left: -1.35rem;
+    width: calc(100% - 628px) !important;
+    overflow-x: auto;
+}
+
+/* .table-right table{
+    width: max-content;
+} */
